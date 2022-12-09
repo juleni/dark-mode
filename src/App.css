@@ -62,3 +62,8 @@ h1 {
   text-align: center;
   margin: 3rem 0 2rem 0;
 }
+
+p {
+  margin: 2rem 10rem 0 10rem;
+  align-items: center;
+}
