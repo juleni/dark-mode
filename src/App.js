@@ -11,7 +11,7 @@ function App() {
         <a href="/">Contact</a>
         <DarkMode />
       </nav>
-      <h1>Hello World</h1>
+      <h1>React Dark Mode example</h1>
       <div id="image"></div>
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting
